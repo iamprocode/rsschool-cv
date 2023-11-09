@@ -13,7 +13,7 @@
  ********
 ## About me
 
-	I am looking for job where I can develop my skills as a programmer. I can work equally well in a team as well as solo. Stress resistant.
+	I am looking for job where I can develop my skills as a programmer.  I can work equally well in a team as well as solo.  Stress resistant.
 
 *********
 
@@ -42,6 +42,22 @@
 
 *********
 
+## Work Experience
+
+	No experience
+
+*********	
+
+## Education 
+
+	Study at [rsschool](https://rs.school/)
+	
+*********
+
+## Languages
+
+	Russian - native  
+	English B2
 	
 
 
