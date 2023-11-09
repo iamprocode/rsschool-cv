@@ -1,5 +1,5 @@
 
-
+![](https://avatars.githubusercontent.com/u/150056847?s=400&u=6c926ff81b41d9481d56b30f8bcb4fff1c287514&v=4)
 
 
 ## Mikhail L  
@@ -18,7 +18,7 @@
 *********
 
 ## Skills 
-	* Javscript
+	* Javacript
 	* Html/Css
 	* Git
 	
