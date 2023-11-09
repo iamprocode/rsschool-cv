@@ -6,10 +6,10 @@
 	
 ********
 ## Contact  
-	* phone: +7 707 535 55 62
-	* email: probor@gmail.com
-	* github: [iamprocode](https://github.com/iamprocode/)  
-	* discord: mikhail_70632
+ * phone: +7 707 535 55 62
+ * email: probor@gmail.com
+ * github: [iamprocode](https://github.com/iamprocode/)  
+ * discord: mikhail_70632
 
  ********
 ## About me
@@ -19,9 +19,9 @@
 *********
 
 ## Skills 
-	* Javacript
-	* Html/Css
-	* Git
+ * Javacript
+ * Html/Css
+ * Git
 	
 *********
 
@@ -29,7 +29,6 @@
 ```javascript
 	var uniqueInOrder=function(iterable){
   let final = [];
-  //your code here - remember iterable can be a string or an array
   for ( let i=0; i < iterable.length; i++) {
     if (iterable[i] !== iterable[i+1]) {
       
@@ -51,7 +50,7 @@
 
 ## Education 
 
-	Study at [rsschool](https://rs.school/)
+ Study at [Rsschool](https://rs.school/)
 	
 *********
 
